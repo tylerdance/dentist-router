@@ -1,9 +1,12 @@
 function Contact() {
 
     return(
-        <div>
-            Contact
-        </div>
+        <>  
+            <div>
+                Email: dentist@dentist.com
+                Phone: 1-800-HOTLINEBLING
+            </div>
+        </>
     )
 }
 
